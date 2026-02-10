@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sk Hasibo Hassan / Site Title"
+title                    : "Sk Hasibo Hassan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "profile_pic.png"
   name             : "Sk Hasibo Hassan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Doctoral Researcher"
   location         : "Kolkata, India"
-  employer         : "Indian Association for the Cultivation of Science"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "IACS"
+  uri              : "https://avisekdaslab.com/hasibo.html"
+  email            : "hassan.skhasibo@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/SkHasibo"
+  twitter          : "SkHasibo"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
