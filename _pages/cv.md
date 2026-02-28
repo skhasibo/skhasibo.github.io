@@ -9,37 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV as PDF]({{ site.baseurl }}/assets/pdfs/CV_Sk_Hasibo_Hassan.pdf){: .btn .btn--primary}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computational Biophysics (Final Year)**, [Your University Name], Expected 2026
+* **M.Sc. in [Your Subject]**, [Your University Name], [Year]
+* **B.Sc. in [Your Subject]**, [Your University Name], [Year]
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **PhD Researcher (Computational Biophysics/Biochemistry)**
+  * Focus: Computational study of membrane proteins and metal transfer mechanisms.
+  * Specialized in MD simulations, QM/MM, and high-level QM calculations.
+  * Developed workflows for analyzing protein-protein interactions and binding sites.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards & Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **IACS Travel Grant (2025/2026)**
+  * Competitive funding awarded for presenting research at [Name of Conference].
+* [Other fellowships like CSIR-NET/GATE/Institutional Awards]
+
+Technical Skills
+======
+* **Computational Methods:** * Molecular Dynamics (MD) Simulations
+  * QM/MM (Quantum Mechanics/Molecular Mechanics)
+  * Ab initio & DFT Calculations
+* **Scientific Software:**
+  * GROMACS, Amber, Gaussian, ORCA
+  * Analysis tools: VMD, PyMOL
+* **Programming & Tools:** * Python (Data analysis & Automation), C++
+  * Version Control: Git/GitHub
+  * Typesetting: LaTeX
 
 Publications
 ======
@@ -47,7 +48,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -58,7 +59,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Example: Peer reviewer for scientific journals]
+* [Example: Seminar coordinator for the research group]
