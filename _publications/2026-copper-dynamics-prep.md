@@ -3,7 +3,7 @@ title: "Interplay of Dynamics and Electrostatics in Molecular Mechanisms of Biol
 collection: publications
 category: in_prep
 permalink: /publication/2026-copper-dynamics-prep
-date: 2026-03-03
+date: 2026-01-01
 venue: "Manuscript in Preparation"
 excerpt: "Collaborative research applying machine learning and QM/MM to characterize Cu(I) binding site pre-organization and the balance of dynamical variability and entropy-enthalpy compensation."
 #citation: 'Ghosh, S., Hassan, S. H., and Das, A. (2026). &quot;Interplay of Dynamics and Electrostatics in Molecular Mechanisms of Biological #Copper Trafficking.&quot; <i>Manuscript in preparation</i>.'
