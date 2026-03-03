@@ -1,5 +1,5 @@
 ---
-title: "Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Cu(I) Transfer Mechanism"
+title: "Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Copper Transfer Mechanism"
 collection: publications
 category: preprints
 permalink: /publication/2026-cysteine-protonation-copper
