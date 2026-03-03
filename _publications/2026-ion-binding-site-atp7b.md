@@ -1,5 +1,5 @@
 ---
-title: "Mechanistic Insights of Copper Binding and Uptake in the Transmembrane Domain of ATP7B: A Multiscale Simulation Study"
+title: "Mechanistic Insights into Copper Binding and Uptake in ATP7B: Role of the Metal-Binding Domain in Transmembrane Site Preorganization"
 collection: publications
 category: in_prep
 permalink: /publication/atp7b-binding-site
