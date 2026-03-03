@@ -4,8 +4,8 @@ collection: publications
 category: in_prep
 permalink: /publication/atp7b-binding-site
 excerpt: 'Using multiscale MD and QM/MM to characterize the copper(I) coordination environment and binding energetics of the human ATP7B transporter'
-#date: 2026-02-24
-#venue: 'Manuscript in Preparation'
+date: 2026-02-24
+venue: 'Manuscript in Preparation'
 #citation: '<b>Hassan, S. H.</b>, & Das, A. (2026). "Your Working Title." <i>Manuscript in Preparation</i>.'
 ---
 
