@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. candidate at the **Indian Association for the Cultivation of Science (IACS)**, Kolkata, working under the supervision of **Prof. Avisek Das**. My research focuses on computational modeling of membrane proteins and metal transport mechanisms using molecular dynamics and multiscale quantum mechanical approaches.
+I am a final-year Ph.D. candidate at the **Indian Association for the Cultivation of Science (IACS)**, Kolkata, working under the supervision of **[Prof. Avisek Das](https://avisekdaslab.com/)**. My research focuses on computational modeling of membrane proteins and metal transport mechanisms using molecular dynamics and multiscale quantum mechanical approaches.
 
 ### **Latest Updates**
 * **[May 2025]** Currently preparing to present our work on ATP7B at the **Gordon Research Conference (GRC)** in Switzerland.
