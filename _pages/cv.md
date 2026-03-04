@@ -57,6 +57,8 @@ Fellowships & Honors
 
 Teaching Experience
 ======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+* **Teaching Assistant (Advanced Python Programming)** | *IACS, Kolkata* (2023, 2024)
+  * Instructed Master’s students in Advanced Python programming and its applications in the Advanced Chemistry Laboratory.
+* **Part-time Lecturer (Chemistry)** | *Catalyst Coaching Institute, Kolkata* (2018 -- 2019)
+  * Taught undergraduate-level chemistry, focusing on foundational theory and problem-solving.
+
