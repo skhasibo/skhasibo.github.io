@@ -32,10 +32,10 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
         <img src="{{ site.baseurl }}/images/adduct2_final.png" alt="Protein-Protein Encounter Complex">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title">2. Data-Driven Analysis of Protein-Protein Encounter Complexes</h3>
+        <h3 class="archive__item-title">2. Copper Transfer and Protein-Protein Dynamics</h3>
         <div class="archive__item-excerpt">
-          <p>Before copper reaches the membrane, it must be safely transferred from holo-chaperones to the Metal Binding Domain (MBD). In collaborative efforts, I apply multidimensional <strong>machine learning algorithms</strong> to characterize how these Cu(I) binding sites "pre-organize" prior to the handoff.</p>
-          <p>By extracting distinct structural ensembles from massive trajectory datasets and validating them with QM/MM calculations, we revealed that initial copper transfer is not purely controlled by electrostatics. Instead, it relies on a delicate, dynamic balance of conformational variability and entropy-enthalpy compensation.</p>
+          <p>Before copper reaches the membrane transporter ATP7B, it must be transferred from holo-chaperones to the Metal Binding Domain (MBD). In a collaborative project within our group, I investigated whether protonation changes or protein–protein interactions govern this early-stage Cu(I) transfer.</p>
+          <p>Using DFT calculations and molecular dynamics simulations, we demonstrated that copper transfer is primarily driven by interfacial preorganization and direct thiol coordination, while deprotonation involves a significant energetic barrier. Extending this work, I applied machine learning–based ensemble analysis with QM/MM validation to characterize encounter complex dynamics, revealing that metal transfer depends on conformational variability and entropy–enthalpy balance rather than purely electrostatic effects.</p>
         </div>
       </div>
     </article>
