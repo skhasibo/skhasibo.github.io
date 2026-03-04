@@ -9,9 +9,9 @@ redirect_from:
 I am a final-year Ph.D. candidate at the **Indian Association for the Cultivation of Science (IACS)**, Kolkata, working under the supervision of **[Prof. Avisek Das](https://avisekdaslab.com/)**. My research focuses on computational modeling of membrane proteins and metal transport mechanisms using molecular dynamics and multiscale quantum mechanical approaches.
 
 ### **Latest Updates**
-* **[May 2025]** Currently preparing to present our work on ATP7B at the **Gordon Research Conference (GRC)** in Switzerland.
-* **[2024]** Our co-first author paper on the role of **explicit solvation** in Cu(I) transfer was published in *The Journal of Physical Chemistry B*.
-* **[In Progress]** Completing the **Machine Learning Specialization** by Stanford University & DeepLearning.AI.
+* **[Feb 2026]** Our new preprint, **"Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Cu(I) Transfer Mechanism,"** is now available on [ChemRxiv](https://doi.org/10.26434/chemrxiv.10001925/v3).
+* **[May 2025]** Presented a poster on the ATP7B copper transport mechanism at the **Gordon Research Conference (GRC): Mechanisms of Membrane Transport** in Les Diablerets, Switzerland.
+* **[2024]** Our co-first author paper on the role of **explicit solvation** in Cu(I) transfer was published in [*The Journal of Physical Chemistry B*](https://doi.org/10.1021/acs.jpcb.3c07327).
 
 ---
 
