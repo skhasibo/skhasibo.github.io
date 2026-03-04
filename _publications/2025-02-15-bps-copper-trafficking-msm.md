@@ -3,7 +3,7 @@ title: "BPS2025 - Protein-protein interactions and pre-organization of reactive 
 collection: publications
 category: conferences
 permalink: /publication/2025-bps-copper-trafficking-msm
-#excerpt: 'Using Markov State Models (MSMs) and MD simulations to map the pre-organization and allosteric relations in the Atx1-Ccc2a copper trafficking system.'
+excerpt: 'Collaborative study of Atx1–Ccc2 interactions using molecular dynamics and free energy analysis to reveal binding-site preorganization and mechanisms of cellular Cu(I) trafficking.'
 date: 2025-02-15
 venue: 'Biophysical Society Annual Meeting (BPS2025)'
 paperurl: 'https://doi.org/10.1016/j.bpj.2024.11.2128'
