@@ -44,7 +44,7 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
   <div class="list__item">
     <article class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/images/solvation_qm.png" alt="QM/MM and Explicit Solvation">
+        <img src="{{ site.baseurl }}/images/toc.png" alt="QM/MM and Explicit Solvation">
       </div>
       <div class="archive__item-body">
         <h3 class="archive__item-title">3. Explicit Solvation Effects in Cu(I) Transfer</h3>
