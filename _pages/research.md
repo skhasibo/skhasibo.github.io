@@ -56,7 +56,3 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
   </div>
 
 </div>
-### Key Methodologies
-* **Quantum Chemistry:** DFT, pKa calculations, and QM/MM for reaction pathways.
-* **Classical MD:** Solvent effects, protein-protein docking, and membrane protein simulations.
-* **Statistical Mechanics:** Markov State Models (MSM) for long-time kinetics and free energy landscapes.
