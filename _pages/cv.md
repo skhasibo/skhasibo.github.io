@@ -53,7 +53,7 @@ Selected Conferences & Training
 * **Machine Learning Specialization:** Stanford University & DeepLearning.AI (In Progress, 2026)
 * **Advanced Training:** In Silico Drug Design (Czech Republic), AI/ML in Statistical Mechanics, and HPC.
 
-<small><i>For a complete list of 10+ presentations and workshops, please visit the [Presentations & Training](/presentations-training/) page.</i></small>
+<small><i>For a complete list of 10+ presentations and workshops, please visit the [Presentations & Training](/presentations/) page.</i></small>
 
 Fellowships & Honors
 ======
