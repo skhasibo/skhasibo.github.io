@@ -19,7 +19,7 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
       <div class="archive__item-body">
         <h3 class="archive__item-title">1. Mechanism of Copper Transport in the ATP7B Membrane Protein</h3>
         <div class="archive__item-excerpt">
-          <p>My PhD research focuses on understanding how the human ATP7B membrane transporter mediates copper translocation across biological membranes. I perform <strong>all-atom molecular dynamics simulations</strong> of ATP7B embedded in explicit lipid bilayers to capture the conformational dynamics of this large P-type ATPase. A central question in my work is how the massive cytoplasmic domains regulate the transmembrane copper-binding sites. To address this, I integrate <strong>machine learning–based ensemble analysis<strong>, <strong>enhanced sampling strategies<strong>, and <strong>multiscale QM/MM simulations<strong> to systematically connect large-scale domain motions with changes in coordination geometry and electronic structure at the metal center.</p>
+          <p>My PhD research focuses on understanding how the human ATP7B membrane transporter mediates copper translocation across biological membranes. I perform <strong>all-atom molecular dynamics simulations</strong> of ATP7B embedded in explicit lipid bilayers to capture the conformational dynamics of this large P-type ATPase. A central question in my work is how the massive cytoplasmic domains regulate the transmembrane copper-binding sites. To address this, I integrate <strong>machine learning–based ensemble analysis</strong>, <strong>enhanced sampling strategies</strong>, and <strong>multiscale QM/MM simulations</strong> to systematically connect large-scale domain motions with changes in coordination geometry and electronic structure at the metal center.</p>
           <p>By integrating classical MD, electronic structure calculations, and experimental biochemical data, my research establishes a mechanistic link between membrane-embedded conformational dynamics and metal transport function.</p>
         </div>
       </div>
@@ -57,7 +57,6 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
   </div>
 
 </div>
-
 ### Key Methodologies
 * **Quantum Chemistry:** DFT, pKa calculations, and QM/MM for reaction pathways.
 * **Classical MD:** Solvent effects, protein-protein docking, and membrane protein simulations.
