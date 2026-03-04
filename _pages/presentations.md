@@ -16,6 +16,5 @@ author_profile: true
 
 ## Workshops & Advanced Training
 * **9th Advanced In Silico Drug Design Workshop(Online)**, Palacký University Olomouc, Czech Republic (Jan 2026) 
-  * *Successfully completed examination (4 ECTS credits)*
 * **AI/ML in Statistical Mechanics** & **Interfaces of QM/SM**, SMCB Conference (Mini-workshops)
 * **Online Workshop on AI and High-Performance Computing**, NIT Mizoram & IIT Kharagpur (2022)
