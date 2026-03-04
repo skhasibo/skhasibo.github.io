@@ -46,10 +46,14 @@ Publications
 <br>
 \* *Equal contribution*
 
-Conferences & Advanced Training
+Selected Conferences & Training
 ======
-* **Gordon Research Conference (GRC):** Mechanisms of Membrane Transport, Switzerland (May 2025)
-* **Workshops:** Machine Learning Specialization (DeepLearning.AI/Stanford), AI/ML in Statistical Mechanics, Advanced In Silico Drug Design.
+* **Gordon Research Conference (GRC):** Mechanisms of Membrane Transport, Les Diablerets, Switzerland (May 2025)
+* **Statistical Mechanics in Chemistry & Biology (SMCB):** TIFR Hyderabad, India (Dec 2025)
+* **Machine Learning Specialization:** Stanford University & DeepLearning.AI (In Progress, 2026)
+* **Advanced Training:** In Silico Drug Design (Czech Republic), AI/ML in Statistical Mechanics, and HPC.
+
+<small><i>For a complete list of 10+ presentations and workshops, please visit the [Presentations & Training](/presentations-training/) page.</i></small>
 
 Fellowships & Honors
 ======
