@@ -29,7 +29,7 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
   <div class="list__item">
     <article class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/images/encounter_complex.png" alt="Protein-Protein Encounter Complex">
+        <img src="{{ site.baseurl }}/images/adduct2_final.png" alt="Protein-Protein Encounter Complex">
       </div>
       <div class="archive__item-body">
         <h3 class="archive__item-title">2. Data-Driven Analysis of Protein-Protein Encounter Complexes</h3>
