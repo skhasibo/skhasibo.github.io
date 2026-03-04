@@ -15,4 +15,4 @@ I am a final-year Ph.D. candidate at the **Indian Association for the Cultivatio
 
 ---
 
-<p style="font-size: 0.9em"><i>Feel free to explore my <a href="{{ site.baseurl }}/research/">Research projects</a>, check out my <a href="{{ site.baseurl }}/publications/">Publications</a>, or view my <a href="{{ site.baseurl }}/cv/">CV</a> for more details.</i></p>
+<p style="font-size: 0.9em"><i>Explore my <a href="{{ site.baseurl }}/research/">Research projects</a>, check out my <a href="{{ site.baseurl }}/publications/">Publications</a>, or view my <a href="{{ site.baseurl }}/cv/">CV</a> for more details.</i></p>
