@@ -41,9 +41,12 @@ Technical Expertise
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+1. **Hassan, S. H.** and Das, A. (2026). Mechanistic Insights into Copper Binding and Uptake in ATP7B: Role of the Metal-Binding Domain in Transmembrane Site Preorganization. *Manuscript in preparation*.
+2. **Hassan, S. H.**<sup>*</sup>, Ghosh, S.<sup>*</sup>, and Das, A. (2026). Cysteine Protonation States in Copper Trafficking Proteins and Their Influence on Biological Cu(I) Transfer Mechanism. *ChemRxiv*. [[Preprint Link]](https://doi.org/10.26434/chemrxiv.10001925/v3)
+3. Ghosh, S., **Hassan, S. H.**, and Das, A. (2026). Interplay of Dynamics and Electrostatics in Molecular Mechanisms of Biological Copper Trafficking. *Manuscript in preparation*.
+4. Ghosh, S.<sup>*</sup>, **Hassan, S. H.**<sup>*</sup>, and Das, A. (2024). Role of Explicit Solvation in Computational Modeling of Chemical Reactions: Mechanism of Cu(I) Transfer Between Thiolate-Based Chelators in Water. *The Journal of Physical Chemistry B*, 128(12), 2905–2921. [[DOI: 10.1021/acs.jpcb.3c07802]](https://doi.org/10.1021/acs.jpcb.3c07802)
+
+<small><sup>*</sup>Equal contribution</small>
 
 Conferences & Advanced Training
 ======
