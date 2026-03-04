@@ -11,9 +11,6 @@ redirect_from:
 
 [Download Full CV as PDF]({{ site.baseurl }}/assets/pdfs/CV_Sk_Hasibo_Hassan.pdf){: .btn .btn--primary}
 
-### Professional Summary
-**Computational Biophysicist** specializing in the multiscale modeling of biological metal trafficking. Expert in integrating **all-atom molecular dynamics**, **QM/MM simulations**, and **machine learning** to elucidate Cu(I) transfer mechanisms in membrane proteins (**ATP7B**) and chaperone-to-MBD delivery pathways. My work bridges protein dynamics, coordination chemistry, and explicit solvation to resolve complex mechanistic problems in metallo-biochemistry.
-
 Education
 ======
 * **Ph.D. in Computational Biophysics**, Indian Association for the Cultivation of Science (IACS), Kolkata (Expected 2026)
