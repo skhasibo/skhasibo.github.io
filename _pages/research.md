@@ -14,7 +14,7 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
   <div class="list__item">
     <article class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/images/atp7b.jpg" alt="ATP7B Simulation">
+        <img src="{{ site.baseurl }}/images/human_mbd6.png" alt="ATP7B Simulation">
       </div>
       <div class="archive__item-body">
         <h3 class="archive__item-title">1. Multiscale Modeling of Transmembrane Copper Transport in ATP7B</h3>
