@@ -34,8 +34,8 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
       <div class="archive__item-body">
         <h3 class="archive__item-title">2. Copper Transfer and Protein-Protein Dynamics</h3>
         <div class="archive__item-excerpt">
-          <p>Before copper reaches the membrane transporter ATP7B, it must be transferred from holo-chaperones to the Metal Binding Domain (MBD). In a collaborative project within our group, We investigated whether protonation changes or protein–protein interactions govern this early-stage Cu(I) transfer.</p>
-          <p>Using DFT calculations and molecular dynamics simulations, we demonstrated that copper transfer is primarily driven by interfacial preorganization and direct thiol coordination, while deprotonation involves a significant energetic barrier. Extending this work, We applied machine learning–based ensemble analysis with QM/MM validation to characterize encounter complex dynamics, revealing that metal transfer depends on conformational variability and entropy–enthalpy balance rather than purely electrostatic effects.</p>
+          <p>Before copper reaches the membrane transporter ATP7B, it must be transferred from holo-chaperones to the Metal Binding Domain (MBD). In a collaborative project within our group, we investigated whether protonation changes or protein–protein interactions govern this early-stage Cu(I) transfer.</p>
+          <p>Using DFT calculations and molecular dynamics simulations, we demonstrated that copper transfer is primarily driven by interfacial preorganization and direct thiol coordination, while deprotonation involves a significant energetic barrier. Extending this work, we applied machine learning–based ensemble analysis with QM/MM validation to characterize encounter complex dynamics, revealing that metal transfer depends on conformational variability and entropy–enthalpy balance rather than purely electrostatic effects.</p>
         </div>
       </div>
     </article>
@@ -49,7 +49,7 @@ My research lies at the intersection of **Computational Biophysics** and **Bioin
       <div class="archive__item-body">
         <h3 class="archive__item-title">3. Explicit Solvation Effects in Cu(I) Transfer</h3>
         <div class="archive__item-excerpt">
-          <p>In a collaborative project within our group, We developed a hybrid classical MD–static QM framework to explicitly capture fluctuating solvation shells and their influence on Cu(I) transfer energetics in aqueous environments. By integrating dynamic solvent sampling with electronic structure calculations, we demonstrated that thiol deprotonation constitutes the rate-determining step in copper exchange. This work highlights the critical role of explicit solvation in accurately describing biological metal trafficking reactions.</p>
+          <p>In a collaborative project within our group, we developed a hybrid classical MD–static QM framework to explicitly capture fluctuating solvation shells and their influence on Cu(I) transfer energetics in aqueous environments. By integrating dynamic solvent sampling with electronic structure calculations, we demonstrated that thiol deprotonation constitutes the rate-determining step in copper exchange. This work highlights the critical role of explicit solvation in accurately describing biological metal trafficking reactions.</p>
         </div>
       </div>
     </article>
