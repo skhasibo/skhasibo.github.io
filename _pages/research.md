@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of **Computational Biophysics** and **Bioinorganic Chemistry**, with a primary focus on the structural dynamics and transport mechanisms of complex membrane proteins. By bridging the gap between classical all-atom simulations, unsupervised machine learning, and high-level quantum chemistry, I aim to uncover the fundamental molecular principles governing cellular copper trafficking.
+My research aims to understand how conformational dynamics and electronic structure cooperate to regulate metal transport in biological systems. I focus on membrane proteins and protein–protein copper transfer processes, integrating all-atom molecular dynamics, enhanced sampling, and multiscale QM/MM approaches to uncover mechanistic pathways at atomic resolution. Through physics-based simulations combined with data-driven analysis, I seek to establish predictive models of biomolecular function.
 
 ---
 
