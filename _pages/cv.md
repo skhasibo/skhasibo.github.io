@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Computational Biophysics**, Indian Association for the Cultivation of Science (IACS), Kolkata (Expected 2026)
+* **Ph.D. in Computational Chemistry**, Indian Association for the Cultivation of Science (IACS), Kolkata (Expected 2026)
   * *Thesis:* Understanding Molecular Mechanism of Cellular Copper Trafficking
 * **M.Sc. in Chemistry**, Indian Institute of Engineering Science and Technology (IIEST), Shibpur (2017)
 * **B.Sc. in Chemistry**, Bagnan College, University of Calcutta, Kolkata (2015)
