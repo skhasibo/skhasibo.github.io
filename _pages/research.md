@@ -34,7 +34,7 @@ My research focuses on understanding how conformational dynamics and electronic 
       <div class="archive__item-body">
         <h3 class="archive__item-title">2. Copper Transfer and Protein-Protein Dynamics</h3>
         <div class="archive__item-excerpt">
-          <p>Before copper reaches the ATP7B membrane transporter, it must be transferred from soluble metallochaperones to the N-terminal metal-binding domains (MBDs) through transient protein–protein interactions. In this collaborative research, we investigated the molecular mechanism underlying the initiation of Cu(I) transfer.</p>
+          <p>Before copper reaches the ATP7B membrane transporter, it must be transferred from soluble metallochaperones to the N-terminal metal-binding domains (MBDs) through transient protein–protein interactions. This work investigates the molecular mechanism underlying the initiation of Cu(I) transfer and the metal-induced protein remodeling required for productive metal transport.</p>
           <p>By integrating <strong>classical molecular dynamics</strong>, <strong>QM/MM molecular dynamics</strong>, and <strong>DFT-based pK<sub>a</sub> calculations</strong>, we showed that initial Cu(I) coordination preferentially occurs through direct neutral thiol binding and is governed by protein–protein interactions rather than intrinsic cysteine pK<sub>a</sub> modulation. We further found that transient Cu(I)-bound intermediates promote protein structural remodeling, generating conformational states required for productive metal transfer.</p>
         </div>
       </div>
