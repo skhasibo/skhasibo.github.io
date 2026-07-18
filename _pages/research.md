@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research aims to understand how conformational dynamics and electronic structure cooperate to regulate metal transport in biological systems. I focus on membrane proteins and protein–protein copper transfer processes, integrating all-atom molecular dynamics, enhanced sampling, and multiscale QM/MM approaches to uncover mechanistic pathways at atomic resolution. Through physics-based simulations combined with data-driven analysis, I seek to establish predictive models of biomolecular function.
+My research focuses on understanding how conformational dynamics and electronic structure regulate biomolecular function, particularly in membrane proteins, protein–protein interactions, and biological metal transport. I integrate all-atom molecular dynamics simulations, multiscale QM/MM molecular dynamics, electronic structure calculations, and data-driven trajectory analysis to investigate molecular mechanisms at atomic resolution.
 
 ---
 
@@ -17,10 +17,10 @@ My research aims to understand how conformational dynamics and electronic struct
         <img src="{{ site.baseurl }}/images/human_mbd6.png" alt="ATP7B Membrane Protein Simulation">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title">1. Mechanism of Copper Transport in the ATP7B Membrane Protein</h3>
+        <h3 class="archive__item-title">1. Conformational Dynamics of the ATP7B Copper Transporter</h3>
         <div class="archive__item-excerpt">
-          <p>My PhD research focuses on understanding how the human ATP7B membrane transporter mediates copper translocation across biological membranes. I perform <strong>all-atom molecular dynamics simulations</strong> of ATP7B embedded in explicit lipid bilayers to capture the conformational dynamics of this large P-type ATPase. A central question in my work is how the massive cytoplasmic domains regulate the transmembrane copper-binding sites. To address this, I integrate <strong>machine learning–based ensemble analysis</strong>, <strong>enhanced sampling strategies</strong>, and <strong>multiscale QM/MM simulations</strong> to systematically connect large-scale domain motions with changes in coordination geometry and electronic structure at the metal center.</p>
-          <p>By integrating classical MD, electronic structure calculations, and experimental biochemical data, my research establishes a mechanistic link between membrane-embedded conformational dynamics and metal transport function.</p>
+          <p>A major focus of my research is understanding the conformational dynamics of the human ATP7B copper transporter using all-atom molecular dynamics simulations in explicit lipid bilayers. This work investigates the relationship between large-scale protein conformational dynamics and the structural organization of transmembrane Cu(I)-binding regions.</p>
+          <p>To characterize functionally relevant conformational states, I combine <strong>steered molecular dynamics (SMD)</strong>, <strong>time-lagged independent component analysis (tICA)</strong>, <strong>QM/MM molecular dynamics</strong>, and <strong>DFT calculations</strong> to investigate metal-site coordination, electronic structure, and conformational heterogeneity.</p>
         </div>
       </div>
     </article>
@@ -34,8 +34,8 @@ My research aims to understand how conformational dynamics and electronic struct
       <div class="archive__item-body">
         <h3 class="archive__item-title">2. Copper Transfer and Protein-Protein Dynamics</h3>
         <div class="archive__item-excerpt">
-          <p>Before copper reaches the membrane transporter ATP7B, it must be transferred from holo-chaperones to the Metal Binding Domain (MBD). In a collaborative project within our group, we investigated whether protonation changes or protein–protein interactions govern this early-stage Cu(I) transfer.</p>
-          <p>Using DFT calculations and molecular dynamics simulations, we demonstrated that copper transfer is primarily driven by interfacial preorganization and direct thiol coordination, while deprotonation involves a significant energetic barrier. Extending this work, we applied machine learning–based ensemble analysis with QM/MM validation to characterize encounter complex dynamics, revealing that metal transfer depends on conformational variability and entropy–enthalpy balance rather than purely electrostatic effects.</p>
+          <p>Before copper reaches the ATP7B membrane transporter, it must be transferred from soluble metallochaperones to the N-terminal metal-binding domains (MBDs) through transient protein–protein interactions. In this collaborative research, we investigated the molecular mechanism underlying the initiation of Cu(I) transfer.</p>
+          <p>By integrating <strong>classical molecular dynamics</strong>, <strong>QM/MM molecular dynamics</strong>, and <strong>DFT-based pK<sub>a</sub> calculations</strong>, we showed that initial Cu(I) coordination preferentially occurs through direct neutral thiol binding and is governed by protein–protein interactions rather than intrinsic cysteine pK<sub>a</sub> modulation. We further found that transient Cu(I)-bound intermediates promote protein structural remodeling, generating conformational states required for productive metal transfer.</p>
         </div>
       </div>
     </article>
@@ -47,9 +47,12 @@ My research aims to understand how conformational dynamics and electronic struct
         <img src="{{ site.baseurl }}/images/toc.png" alt="QM/MM and Explicit Solvation">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title">3. Explicit Solvation Effects in Cu(I) Transfer</h3>
+        <h3 class="archive__item-title">3. Multiscale MD–QM Frameworks in Explicit Solvation</h3>
         <div class="archive__item-excerpt">
-          <p>In a collaborative project within our group, we developed a hybrid classical MD–static QM framework to explicitly capture fluctuating solvation shells and their influence on Cu(I) transfer energetics in aqueous environments. By integrating dynamic solvent sampling with electronic structure calculations, we demonstrated that thiol deprotonation constitutes the rate-determining step in copper exchange. This work highlights the critical role of explicit solvation in accurately describing biological metal trafficking reactions.</p>
+          <p> I co-developed a multiscale <strong>classical MD–QM computational framework</strong> to investigate Cu(I)-transfer reactions in biologically inspired thiolate systems under explicit-solvent conditions.</p>
+            <p>
+        By coupling statistical configurational sampling from <strong>molecular dynamics simulations</strong> with <strong>quantum chemical electronic structure calculations</strong>, this framework evaluates reaction energetics across representative conformational ensembles while explicitly accounting for solvent fluctuations. Our results demonstrated that solvent-driven structural fluctuations strongly influence coordination intermediates and reaction energetics, establishing thiol deprotonation as the rate-determining step in Cu(I) transfer.
+        </p>
         </div>
       </div>
     </article>
