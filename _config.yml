@@ -101,14 +101,16 @@ author:
 publication_category:
   books:
     title: 'Books'
-  in_prep:
-    title: 'In Preparation'
-  preprints:
-    title: 'Preprints'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Journal Articles'
+  under_review:
+    title: 'Under Review'  
+  in_prep:
+    title: 'Manuscripts in Preparation'
+#  preprints:
+#    title: 'Preprints'
+conferences:
+    title: 'Conference Proceedings/Abstracts'
   
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
