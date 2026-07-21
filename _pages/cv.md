@@ -30,11 +30,12 @@ Research Experience
 
 Technical Expertise
 ======
-* **Computational Methods:** Molecular Dynamics (MD), QM/MM, Ab initio/DFT Calculations, Enhanced Sampling, Collective Variables.
-* **Data Science & ML:** Unsupervised & Supervised Learning, Dimensionality Reduction (TICA, PCA), Scikit-learn.
-* **Simulation & Quantum Suites:** NAMD, OpenMM, ORCA, GAUSSIAN, CP2K.
-* **Programming & HPC:** Python (Advanced), FORTRAN, Bash, Linux environments, PBS job scheduling, GPU-accelerated simulations.
-* **Analysis:** MDAnalysis, VMD (Tcl/Tk), PyMOL, Matplotlib.
+* **Computational Methods:** Molecular Dynamics (MD), QM/MM & QM/MM Molecular Dynamics, Density Functional Theory (DFT), Force Field Parameterization, Enhanced Sampling Techniques, Collective Variables.
+* **Data Analysis & Machine Learning:** Supervised and Unsupervised Learning, Time-lagged Independent Component Analysis (tICA), PCA, Random Forest, XGBoost, Autoencoders, Variational Autoencoders, Scikit-learn.
+* **Simulation & Quantum Software:** NAMD, OpenMM, ORCA, GAUSSIAN, CP2K, CHARMM-GUI.
+* **Programming & Scientific Computing:** Python, PyTorch, NumPy, SciPy, Pandas, FORTRAN, Bash, Tcl/Tk (VMD), LaTeX.
+* * **Trajectory Analysis & Visualization:** MDAnalysis, VMD, PyMOL, Matplotlib.
+* **High-Performance Computing:** Linux, PBS/SLURM job scheduling, MPI/OpenMP parallel computing, GPU-accelerated molecular simulations.
 
 Publications
 ======
