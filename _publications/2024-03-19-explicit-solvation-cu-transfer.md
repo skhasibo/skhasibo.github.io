@@ -3,7 +3,7 @@ title: "Role of Explicit Solvation in Computational Modeling of Chemical Reactio
 collection: publications
 category: manuscripts
 permalink: /publication/2024-explicit-solvation-cu-transfer
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This study presents a multiscale MD–QM computational framework to investigate Cu(I) transfer reactions in explicit solvent. By combining molecular dynamics configurational sampling with quantum chemical calculations, the work demonstrates how solvent fluctuations influence coordination intermediates and reaction energetics, highlighting the importance of explicit solvation in modeling biological metal transfer.'
 date: 2024-03-19
 venue: 'The Journal of Physical Chemistry B'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
