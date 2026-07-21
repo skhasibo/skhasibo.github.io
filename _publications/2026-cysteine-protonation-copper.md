@@ -8,7 +8,7 @@ date: 2026-10-02
 venue: 'Inorganic Chemistry Frontiers (Under final minor revisions)'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.26434/chemrxiv.10001925/v3'
-citation: '<b>Hassan, S. H.</b><sup>†</sup>, Ghosh, S.<sup>†</sup>, & Das, A. (2026). Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Cu(I) Transfer Mechanism. <i>ChemRxiv</i>. DOI: 10.26434/chemrxiv.10001925/v3(Earlier version available on ChemRxiv)'
+citation: '<b>Hassan, S. H.</b><sup>†</sup>, Ghosh, S.<sup>†</sup>, & Das, A. (2026). Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Cu(I) Transfer Mechanism. <i>ChemRxiv</i>. DOI: 10.26434/chemrxiv.10001925/v3.<br><sup>†</sup>Equal contribution. Earlier version available on ChemRxiv.'
 ---
 
 **Status:** *Currently undergoing final minor revisions at Inorganic Chemistry Frontiers.*
