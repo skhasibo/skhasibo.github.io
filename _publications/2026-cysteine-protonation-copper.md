@@ -1,7 +1,7 @@
 ---
 title: "Mechanism of Cu(I) Transfer in Copper Trafficking Proteins: Initial Coordination by Neutral Cysteine Thiol and Progressive Remodeling of the Protein–Protein Complex"
 collection: publications
-category: preprints
+category:  under_review
 permalink: /publication/2026-icf-cu-transfer
 excerpt: 'This work combines classical molecular dynamics, QM/MM molecular dynamics, and DFT calculations to investigate the initiation of Cu(I) transfer between metallochaperones and metal-binding domains. The study demonstrates that initial Cu(I) coordination preferentially occurs through direct neutral thiol binding and reveals how transient Cu(I)-bound intermediates drive progressive protein remodeling during metal transfer.'
 date: 2026-10-02
