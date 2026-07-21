@@ -34,7 +34,7 @@ Technical Expertise
 * **Data Analysis & Machine Learning:** Supervised and Unsupervised Learning, Time-lagged Independent Component Analysis (tICA), PCA, Random Forest, XGBoost, Autoencoders, Variational Autoencoders, Scikit-learn.
 * **Simulation & Quantum Software:** NAMD, OpenMM, ORCA, GAUSSIAN, CP2K, CHARMM-GUI.
 * **Programming & Scientific Computing:** Python, PyTorch, NumPy, SciPy, Pandas, FORTRAN, Bash, Tcl/Tk (VMD), LaTeX.
-* * **Trajectory Analysis & Visualization:** MDAnalysis, VMD, PyMOL, Matplotlib.
+* **Trajectory Analysis & Visualization:** MDAnalysis, VMD, PyMOL, Matplotlib.
 * **High-Performance Computing:** Linux, PBS/SLURM job scheduling, MPI/OpenMP parallel computing, GPU-accelerated molecular simulations.
 
 Publications
@@ -50,10 +50,11 @@ Selected Conferences & Training
 ======
 * **Gordon Research Conference (GRC):** Mechanisms of Membrane Transport, Les Diablerets, Switzerland (May 2025)
 * **Statistical Mechanics in Chemistry & Biology (SMCB):** TIFR Hyderabad, India (Dec 2025)
-* **Machine Learning Specialization:** Stanford University & DeepLearning.AI (In Progress, 2026)
-* **Advanced Training:** In Silico Drug Design (Czech Republic), AI/ML in Statistical Mechanics, and HPC.
+* **Professional Certifications:** Machine Learning Specialization (Stanford University & DeepLearning.AI, 2026); Deep Learning Specialization (DeepLearning.AI, Ongoing)
+#* **Machine Learning Specialization:** Stanford University & DeepLearning.AI (In Progress, 2026)
+* **Advanced Training:** 9th Advanced In Silico Drug Design Workshop (Palacký University, Czech Republic), AI/ML in Statistical Mechanics, and High-Performance Computing (HPC)
 
-<small><i>For a complete list of presentations and workshops, please visit the [Presentations & Training](/presentations/) page.</i></small>
+<p style="font-size: 0.9em"><i>For a complete list of presentations and workshops, please visit the <a href="{{ site.baseurl }}/talks/">Presentations & Training</a> page.</i></p>
 
 Fellowships & Honors
 ======
