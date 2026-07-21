@@ -21,12 +21,12 @@ Education
 Research Experience
 ======
 **PhD Research Scholar** | *IACS, Kolkata* (2020 -- Present)
-* **Membrane Proteins & Ion Transport:** Modeled ATP7B binding sites using comparative all-atom MD and multiscale QM/MM to understand cytoplasmic pre-organization and copper uptake.
-* **Data-Driven Biophysics:** Applied unsupervised machine learning (tICA, Clustering) to high-dimensional trajectories to identify rare conformational states and reaction intermediates in protein-protein complexes.
-* **Quantum Mechanistic Studies:** Investigated biological Cu(I) transfer pathways and protonation states using DFT-based quantum chemistry and hybrid classical MD/static QM explicit solvation modeling.
+* **Membrane Protein Dynamics:** Investigating large-scale conformational dynamics and allosteric regulation in the human ATP7B copper transporter using all-atom MD in explicit lipid bilayers, steered MD (SMD), and multiscale QM/MM.
+* **Protein–Protein Metal Transfer:** Studying Cu(I) transfer between metallochaperones and metal-binding domains using classical MD, QM/MM molecular dynamics, DFT calculations, and conformational ensemble analysis. 
+* **Multiscale Computational Frameworks:** Developing MD–QM computational workflows that combine molecular dynamics configurational sampling with electronic structure calculations to investigate metal transfer reactions in explicit-solvent environments.
 
 **Masters Researcher** | *IIEST, Shibpur* (2016 -- 2017)
-* Mapped theoretical potential energy surfaces for ammonia activation mediated by cobalt complexes using high-level quantum chemistry.
+* Investigated ammonia activation by cobalt complexes through theoretical potential energy surface calculations using quantum chemical methods.
 
 Technical Expertise
 ======
