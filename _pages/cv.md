@@ -53,7 +53,7 @@ Selected Conferences & Training
 * **Professional Certifications:** Machine Learning Specialization (Stanford University & DeepLearning.AI, 2026); Deep Learning Specialization (DeepLearning.AI, Ongoing)
 * **Advanced Training:** 9th Advanced In Silico Drug Design Workshop (Palacký University, Czech Republic), AI/ML in Statistical Mechanics, and High-Performance Computing (HPC)
 
-<p style="font-size: 0.9em"><i>For a complete list of presentations and workshops, please visit the <a href="{{ site.baseurl }}/talks/">Presentations & Training</a> page.</i></p>
+<p style="font-size: 0.9em"><i>For a complete list of presentations and workshops, please visit the <a href="{{ site.baseurl }}/presentations/">Presentations & Training</a> page.</i></p>
 
 Fellowships & Honors
 ======
