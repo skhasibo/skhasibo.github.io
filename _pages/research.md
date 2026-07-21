@@ -14,7 +14,7 @@ My research focuses on understanding how conformational dynamics and electronic 
   <div class="list__item">
     <article class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/images/human_mbd6.png" alt="ATP7B Membrane Protein Simulation">
+        <img src="{{ site.baseurl }}/images/7xuk_mbd6_memb.png" alt="ATP7B Membrane Protein Simulation">
       </div>
       <div class="archive__item-body">
         <h3 class="archive__item-title">1. Conformational Dynamics of the ATP7B Copper Transporter</h3>
