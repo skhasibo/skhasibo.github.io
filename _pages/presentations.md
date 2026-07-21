@@ -15,9 +15,9 @@ author_profile: true
 * **Theoretical Chemistry Symposium (TCS)**, IIT Madras, Chennai, India (December 2023)
 
 ## Workshops & Advanced Training
-* **Deep Learning Specialization** (Ongoing) – *DeepLearning.AI (Coursera), 2026*
+* **Deep Learning Specialization** (Ongoing) -- *DeepLearning.AI (Coursera), 2026*
   * Deep learning, convolutional neural networks, sequence models, transformers, TensorFlow, and modern AI applications.
-* **Machine Learning Specialization** – *DeepLearning.AI & Stanford University (Coursera), 2026*
+* **Machine Learning Specialization** -- *DeepLearning.AI & Stanford University (Coursera), 2026*
   * Supervised and unsupervised learning, neural networks, decision trees, recommender systems, reinforcement learning, and machine learning with Python, scikit-learn, and TensorFlow.
 * **9th Advanced In Silico Drug Design Workshop(Online)**, Palacký University Olomouc, Czech Republic (Jan 2026) 
 * **AI/ML in Statistical Mechanics** & **Interfaces of QM/SM**, SMCB Conference (Mini-workshops)
