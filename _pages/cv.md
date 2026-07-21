@@ -39,14 +39,13 @@ Technical Expertise
 
 Publications
 ======
-1. **Hassan, S. H.** and Das, A. (2026). Mechanistic Insights into Copper Binding and Uptake in ATP7B: Role of the Metal-Binding Domain in Transmembrane Site Preorganization. *Manuscript in preparation*.
-2. **Hassan, S. H.**\*, Ghosh, S.\*, and Das, A. (2026). Cysteine Protonation States in Copper Trafficking Proteins and Their Influence on Biological Cu(I) Transfer Mechanism. *ChemRxiv*. [[Preprint Link]](https://doi.org/10.26434/chemrxiv.10001925/v3)
-3. Ghosh, S., **Hassan, S. H.**, and Das, A. (2026). Interplay of Dynamics and Electrostatics in Molecular Mechanisms of Biological Copper Trafficking. *Manuscript in preparation*.
-4. Ghosh, S.\*, **Hassan, S. H.**\*, and Das, A. (2024). Role of Explicit Solvation in Computational Modeling of Chemical Reactions: Mechanism of Cu(I) Transfer Between Thiolate-Based Chelators in Water. *The Journal of Physical Chemistry B*, 128(12), 2905–2921. [[DOI: 10.1021/acs.jpcb.3c07327]](https://doi.org/10.1021/acs.jpcb.3c07327)
+* <strong>Hassan, S. H.<sup>†</sup></strong>, Ghosh, S.<sup>†</sup>, & Das, A. (2026). Mechanism of Cu(I) Transfer in Copper Trafficking Proteins: Initial Coordination by Neutral Cysteine Thiol and Progressive Remodeling of the Protein–Protein Complex. *Inorganic Chemistry Frontiers* (Under final minor revisions).
+*  Ghosh, S.<sup>†</sup>, <strong>Hassan, S. H.<sup>†</sup></strong>, & Das, A. (2024). Role of Explicit Solvation in Computational Modeling of Chemical Reactions: Mechanism of Cu(I) Transfer Between Thiolate-Based Chelators in Water. *The Journal of Physical Chemistry B*, 128(12), 2905–2921.
+*  <strong>Hassan, S. H.</strong>, & Das, A. (2026). Mechanistic Insights into Copper Binding and Uptake in ATP7B: Role of the Metal-Binding Domain in Transmembrane Site Preorganization. *Manuscript in preparation*.
+*  Ghosh, S., <strong>Hassan, S. H.</strong>, & Das, A. (2026). Interplay of Dynamics and Electrostatics in Molecular Mechanisms of Biological Copper Trafficking. *Manuscript in preparation*.
 
-<br>
-\* *Equal contribution*
-
+ <p style="font-size: 0.9em"><i><sup>†</sup> Equal contribution. For a full list of publications, visit the <a href="{{ site.baseurl }}/publications/">Publications</a> page.</i></p>
+ 
 Selected Conferences & Training
 ======
 * **Gordon Research Conference (GRC):** Mechanisms of Membrane Transport, Les Diablerets, Switzerland (May 2025)
