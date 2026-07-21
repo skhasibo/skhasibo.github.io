@@ -1,7 +1,7 @@
 ---
 title: "Role of Explicit Solvation in Computational Modeling of Chemical Reactions: Mechanism of Cu(I) Transfer Between Thiolate-Based Chelators in Water"
 collection: publications
-category: manuscripts
+category: under_review
 permalink: /publication/2024-explicit-solvation-cu-transfer
 excerpt: 'This study presents a multiscale MD–QM computational framework to investigate Cu(I) transfer reactions in explicit solvent. By combining molecular dynamics configurational sampling with quantum chemical calculations, the work demonstrates how solvent fluctuations influence coordination intermediates and reaction energetics, highlighting the importance of explicit solvation in modeling biological metal transfer.'
 date: 2024-03-19
