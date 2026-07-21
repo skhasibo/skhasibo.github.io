@@ -1,11 +1,11 @@
 ---
-title: "Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Copper Transfer Mechanism"
+title: "Mechanism of Cu(I) Transfer in Copper Trafficking Proteins: Initial Coordination by Neutral Cysteine Thiol and Progressive Remodeling of the Protein–Protein Complex"
 collection: publications
 category: preprints
-permalink: /publication/2026-cysteine-protonation-copper
-excerpt: 'This study investigates how the protonation state of cysteine residues dictates the pathway and energetics of Copper(I) transfer in biological systems.'
+permalink: /publication/2026-icf-cu-transfer
+excerpt: 'This work combines classical molecular dynamics, QM/MM molecular dynamics, and DFT calculations to investigate the initiation of Cu(I) transfer between metallochaperones and metal-binding domains. The study demonstrates that initial Cu(I) coordination preferentially occurs through direct neutral thiol binding and reveals how transient Cu(I)-bound intermediates drive progressive protein remodeling during metal transfer.'
 date: 2026-10-02
-venue: 'ChemRxiv'
+venue: 'Inorganic Chemistry Frontiers (Under final minor revisions)'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.26434/chemrxiv.10001925/v3'
 citation: '<b>Hassan, S. H.</b>, Ghosh, S., & Das, A. (2026). Cysteine Protonation States in Copper Trafficking Proteins and Its Influence on Biological Cu(I) Transfer Mechanism. <i>ChemRxiv</i>. DOI: 10.26434/chemrxiv.10001925/v3'
