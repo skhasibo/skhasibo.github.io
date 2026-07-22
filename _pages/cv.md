@@ -21,7 +21,7 @@ Education
 Research Experience
 ======
 **PhD Research Scholar** | *IACS, Kolkata* (2020 -- Present)
-* **Membrane Protein Dynamics:** Investigating large-scale conformational dynamics and allosteric regulation in the human ATP7B copper transporter using all-atom MD in explicit lipid bilayers, steered MD (SMD), and multiscale QM/MM.
+* **Membrane Protein Dynamics:** Investigating large-scale conformational dynamics and allosteric regulation in the human ATP7B copper transporter using all-atom MD in explicit lipid bilayers, steered MD (SMD), tICA and multiscale QM/MM.
 * **Protein–Protein Metal Transfer:** Studying Cu(I) transfer between metallochaperones and metal-binding domains using classical MD, QM/MM molecular dynamics, DFT calculations, and conformational ensemble analysis. 
 * **Multiscale Computational Frameworks:** Developing MD–QM computational workflows that combine molecular dynamics configurational sampling with electronic structure calculations to investigate metal transfer reactions in explicit-solvent environments.
 
