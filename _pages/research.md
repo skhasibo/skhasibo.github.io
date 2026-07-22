@@ -20,7 +20,7 @@ My research focuses on understanding how conformational dynamics and electronic 
         <h3 class="archive__item-title">1. Conformational Dynamics of the ATP7B Copper Transporter</h3>
         <div class="archive__item-excerpt">
           <p>A major focus of my research is understanding the conformational dynamics of the human ATP7B copper transporter using all-atom molecular dynamics simulations in explicit lipid bilayers. This work investigates the relationship between large-scale protein conformational dynamics and the structural organization of transmembrane Cu(I)-binding regions.</p>
-          <p>To characterize functionally relevant conformational states, I combine <strong>steered molecular dynamics (SMD)</strong>, <strong>time-lagged independent component analysis (tICA)</strong>, <strong>QM/MM molecular dynamics</strong>, and <strong>DFT calculations</strong> to investigate metal-site coordination, electronic structure, and conformational heterogeneity.</p>
+          <p>To characterize functionally relevant conformational states, I combine <strong>steered molecular dynamics (SMD)</strong>, <strong>time-lagged independent component analysis (tICA)</strong>, and <strong>QM/MM molecular dynamics</strong> to investigate metal-site coordination, stability, and conformational heterogeneity.</p>
         </div>
       </div>
     </article>
