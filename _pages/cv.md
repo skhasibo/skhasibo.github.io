@@ -39,7 +39,7 @@ Technical Expertise
 
 Publications
 ======
-* <strong>Hassan, S. H.<sup>†</sup></strong>, Ghosh, S.<sup>†</sup>, & Das, A. (2026). Mechanism of Cu(I) Transfer in Copper Trafficking Proteins: Initial Coordination by Neutral Cysteine Thiol and Progressive Remodeling of the Protein–Protein Complex. *Inorganic Chemistry Frontiers* (Under final minor revisions).
+* <strong>Hassan, S. H.<sup>†</sup></strong>, Ghosh, S.<sup>†</sup>, & Das, A. (2026). Mechanism of Cu(I) Transfer in Copper Trafficking Proteins: Initial Coordination by Neutral Cysteine Thiol and Progressive Remodeling of the Protein–Protein Complex. *Inorganic Chemistry Frontiers*.
 *  Ghosh, S.<sup>†</sup>, <strong>Hassan, S. H.<sup>†</sup></strong>, & Das, A. (2024). Role of Explicit Solvation in Computational Modeling of Chemical Reactions: Mechanism of Cu(I) Transfer Between Thiolate-Based Chelators in Water. *The Journal of Physical Chemistry B*, 128(12), 2905–2921.
 *  <strong>Hassan, S. H.</strong>, & Das, A. (2026). Mechanistic Insights into Copper Binding and Uptake in ATP7B: Role of the Metal-Binding Domain in Transmembrane Site Preorganization. *Manuscript in preparation*.
 *  Ghosh, S., <strong>Hassan, S. H.</strong>, & Das, A. (2026). Interplay of Dynamics and Electrostatics in Molecular Mechanisms of Biological Copper Trafficking. *Manuscript in preparation*.
